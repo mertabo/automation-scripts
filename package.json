@@ -1,0 +1,13 @@
+{
+  "name": "automation-scripts",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "audit-translations": "src/audit-translations.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
